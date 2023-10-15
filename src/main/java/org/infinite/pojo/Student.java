@@ -21,6 +21,9 @@ public class Student {
 	public Student() {
 
 	}
+	public Student(String firstname,String lastname) {
+
+	}
 
 	public int getStudentId() {
 		return studentId;
